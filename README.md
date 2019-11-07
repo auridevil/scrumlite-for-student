@@ -76,3 +76,6 @@ E' possibile e auspicabile per gli studenti, come per i docenti, proporre miglio
 ## Rigidità nell'applicazione
 Non è richiesta rigidità nell'applicazione delle regole ma una presa di coscienza continua. 
 
+## Autori
+Aureliano Bergese (aureliano.bergese[at]gmail.com)
+(add your name here)
