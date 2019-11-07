@@ -1,4 +1,4 @@
-# scrumlite_for_student
+# Student's XXXXX(trovare un nome)
 
 ## Scrum per studenti.
 Questo documento vuole creare un framework ispirato a scrum per la gestione dei progetti degli studenti
