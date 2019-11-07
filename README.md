@@ -40,6 +40,9 @@ La sprint board è una kanban board (su trello e.g.) dove vengono messi gli elem
 La sprint board, come il product backlog sono pubbliche e accessibili dal docente e dagli altri dev-team.
 Si invita a lodare e mostrare come esempio gestioni particolarmente virtuose delle board.
 
+### Incremento
+Si definisce incremento l'insieme del lavoro svolto da devteam durante lo sprint, che rispetti la definizione di done.
+
 ## Eventi
 
 ### sprint
